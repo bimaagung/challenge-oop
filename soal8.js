@@ -60,9 +60,9 @@ class Circle extends Shape {
   }
 }
 
-let square = new Square(10);
+let square = new Square(22);
 let triangle = new Triangle(10, 3);
-let circle = new Circle(10);
+let circle = new Circle(17);
 
 console.log(square.conclusion());
 console.log(triangle.conclusion());
