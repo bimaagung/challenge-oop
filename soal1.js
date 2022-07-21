@@ -8,7 +8,7 @@
 
 let Person = {
   first_name: "Rivan",
-  last_name: "Saputra",
+  last_name: "Saputra Hendra",
   email: "rivan@gmail.com",
   umur: 25,
 };
