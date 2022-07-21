@@ -13,4 +13,4 @@ let Person = {
   },
 };
 
-console.log("Nomor2:" + Person.full_name());
+console.log(Person.full_name());
